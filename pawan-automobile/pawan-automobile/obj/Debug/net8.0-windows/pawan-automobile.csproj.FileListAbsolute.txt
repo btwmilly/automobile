@@ -1,0 +1,16 @@
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan_automobile.Form1.resources
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.csproj.GenerateResource.cache
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.AssemblyInfoInputs.cache
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.AssemblyInfo.cs
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.csproj.CoreCompileInputs.cache
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\bin\Debug\net8.0-windows\pawan-automobile.exe
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\bin\Debug\net8.0-windows\pawan-automobile.deps.json
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\bin\Debug\net8.0-windows\pawan-automobile.runtimeconfig.json
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\bin\Debug\net8.0-windows\pawan-automobile.dll
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\bin\Debug\net8.0-windows\pawan-automobile.pdb
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.dll
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\refint\pawan-automobile.dll
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.pdb
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\pawan-automobile.genruntimeconfig.cache
+C:\Users\pawan\source\repos\pawan-automobile\pawan-automobile\obj\Debug\net8.0-windows\ref\pawan-automobile.dll
